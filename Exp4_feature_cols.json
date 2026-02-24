@@ -1,0 +1,14 @@
+[
+  "deposit_type",
+  "market_segment",
+  "arrival_date_month",
+  "country",
+  "reserved_room_type",
+  "total_of_special_requests",
+  "customer_type",
+  "distribution_channel",
+  "assigned_room_type",
+  "arrival_date_week_number",
+  "arrival_date_day_of_month",
+  "res_status_year"
+]
